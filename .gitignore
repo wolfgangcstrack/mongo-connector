@@ -3,6 +3,7 @@
 .DS_Store
 /test/data
 /test/logs
+/venv/
 /dist
 # IDE settings folders
 .idea/
